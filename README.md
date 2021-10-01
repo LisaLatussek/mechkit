@@ -7,7 +7,7 @@
 
 # mechkit
 
-Basic continuum mechanics toolkit.
+Basic continuum mechanics toolkit. - EDIT Lisa
 
 For more details please refer to [the docs][rtdocs].
 
